@@ -1,0 +1,7 @@
+  In early 2015 I became the CTO of quite a small startup that typically got 50 users a day. Over the next two years we grew rapidly to 20,000 users a day whilst successfully adopting things like Devops, Distributed Architectures, Natural Language Processing and Artificial Intelligence and generally avoiding the usuall startup nasties like technical debt. In that time I've slowly (and sometimes painfully) transformed from being a chief-writer-of-code to someone that encourages others to write code well and to try new things whilst not forgetting we are a business with limited time and resources. 
+  
+  This blog is about all those technical and people things that make a startup tick. I'll quickly add that they are just opinions. IT is an industry that likes to evangelise, likes to see things in high contrast black and white and people often get quite angry when they're not.
+  
+  One last thing, for the first 13 years of my working life I was a civil engineer mostly managing very large underground projects. Believe it or not I think there can be quite a large overlap between website development and civiil engineering but I hope that I can also bring one or two fresh perspectives on things.
+  
+  This blog is written in Jekyll so if you're trying to hack it then don't bother. If you'd like to comment or ask a question then drop me a line.
